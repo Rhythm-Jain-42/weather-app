@@ -80,7 +80,7 @@ export const WeatherApp = () => {
             </div>
         </div>
         <div className='weather-image'>
-            <img src={cloud_icon} alt=""/>
+            <img src={wicon} alt=""/>
         </div>
         <div className='weather-temp'>24°c</div>
         <div className='weather-location'>London</div>
